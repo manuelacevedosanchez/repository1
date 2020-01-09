@@ -6,10 +6,6 @@ package cuentas;
  * @category tareas
  * @see <a href=https://github.com/manuelacevedosanchez/repository1>Repositorio en GitHub</a>
  */
-/**
- * @author PheloPC
- *
- */
 public class CCuenta {
 
 
